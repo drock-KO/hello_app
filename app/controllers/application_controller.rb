@@ -1,5 +1,5 @@
 class ApplicationController < ActionController::Base
-    def hello
-        puts "Hello world!"
+    def bye
+        puts "Good Bye!"
     end
 end
